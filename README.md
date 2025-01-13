@@ -2,6 +2,16 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+Java - Is a popular progrmming language, created in 1995
+     - Is use to develop mobile apps, web apps, desktop apps, games and more.
+
+RUN JAVA in VS Code 
+     - Install "extension pack for java" and more.
+
+RUN JAVA Commands
+     - javac App.java
+     - java App
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:

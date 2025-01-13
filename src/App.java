@@ -48,9 +48,9 @@ public class App {
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3");
 
         Person info2 = new Person(
-                         "Mabz Amirul", 
+                         "Boss Bossing", 
                            "BSIT", 
-                            "bossmabz@gmail.com");
+                            "boss@gmail.com");
         System.out.println(info2); 
 
         System.out.println();

@@ -12,7 +12,7 @@ public class SimplePattern {
     }
 
     public SimplePattern() {
-        //TODO Auto-generated constructor stub
+        
     }
 
     public void setMe(String[] me) {
